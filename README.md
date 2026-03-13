@@ -21,4 +21,3 @@ This repository documents **key product observations, root cause analyses, and c
 | **Booking Review** | Metadata | Backend validation metadata and frontend enforcement agreement| [Link](https://github.com/ragugounravel/Meta-data-validation/blob/main/README.md)  | [NA]() |
 | **Product Discovery** | Product Strategy | Proposed Explore by Experience discovery layer | [Link](https://github.com/ragugounravel/Explore-by-Experience/blob/main/README.md) | [Demo](https://ragugounravel.github.io/Explore-by-Experience/)
 
----
