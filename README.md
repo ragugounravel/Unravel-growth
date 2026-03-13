@@ -20,4 +20,4 @@ This repository documents **key product observations, root cause analyses, and c
 | **Booking Review** | UX | Improved price visibility to reduce mandate scrolling | [Link](https://github.com/ragugounravel/Booking-review-detail-page-/blob/main/README.md) | [Demo](https://ragugounravel.github.io/Booking-review-detail-page-/) | [NA]() |
 | **Booking Review** | Metadata | Backend validation metadata and frontend enforcement agreement| [Link](https://github.com/ragugounravel/Meta-data-validation/blob/main/README.md)  | [NA]() |
 | **Product Discovery** | Product Strategy | Proposed Explore by Experience discovery layer | [Link](https://github.com/ragugounravel/Explore-by-Experience/blob/main/README.md) | [Demo](https://ragugounravel.github.io/Explore-by-Experience/)
-
+| **Search list** | Smart loading | Diverting the user’s attention from the waiting time | [Link](https://github.com/ragugounravel/Info-bit/blob/main/README.md) | [Demo](https://ragugounravel.github.io/Info-bit/) |
