@@ -14,10 +14,10 @@ This repository documents **key product observations, root cause analyses, and c
 
 | Area | Type | Description | Link |
 |-----|-----|-----|------|
-| **Findings** | UAT | Identified Bugs, UI improvement and UX enhancement |
+| **Findings** | UAT | Identified Bugs, UI improvement and UX enhancement | 
 | **Search Engine** | System Analysis | Identified architecture flaw causing false “Sold Out” results |
-| **Booking Review Page** | UX Optimization | Improved price visibility to reduce unnecessary scrolling |
+| **Booking Review Page** | UX Optimization | Improved price visibility to reduce unnecessary scrolling | [Link](https://github.com/ragugounravel/Booking-review-detail-page-/blob/main/README.md)
 | **Validation Architecture** | System Design | Found mismatch between backend validation metadata and frontend enforcement |
-| **Product Discovery** | Product Strategy | Proposed **Explore by Experience** discovery layer |
+| **Product Discovery** | Product Strategy | Proposed **Explore by Experience** discovery layer | [Link](https://github.com/ragugounravel/Explore-by-Experience/blob/main/README.md)
 
 ---
