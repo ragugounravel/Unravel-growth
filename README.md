@@ -2,7 +2,8 @@
 
 **Author:** Raguram Narayanaswamy  
 **Role:** Product Trainee (UAT & Product Validation)  
-**Focus:** Product Analysis, UX Improvements, System Behavior Insights  
+
+---
 
 During my time working on **UNRAVEL**, I analyzed product flows, identified systemic issues, and proposed product and UX improvements aimed at improving booking reliability, discovery, and user experience.
 
